@@ -1,0 +1,22 @@
+* { 
+font-family: Garamond;
+background-color: green;
+font:blue;
+ }
+
+ .Nav {
+ 	height: 100px;
+ 	width: 940px;
+ 	font-family: Georgia, Times, Times New Roman, serif;
+ 	background-color: #ffffff;
+ 	border color: #cccccc;
+ }
+
+ .About, .Portfolio, .Contact {
+
+ 	height: 25px;
+ 	width: 40px;
+ 	background-color: blue;
+ 
+
+ }
